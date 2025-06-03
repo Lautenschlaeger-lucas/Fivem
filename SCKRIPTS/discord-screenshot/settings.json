@@ -1,0 +1,10 @@
+{
+  "webhookUrl": "SEU HEBHOOK DE PRINTS",
+  "framework": "cidadenovarp",
+  "commandName": "screenshot",
+  "commandPermission": "Admin",
+  "screenshotOptions": {
+      "encoding": "jpg",
+      "quality": 0.92
+  }
+}
